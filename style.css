@@ -9,8 +9,14 @@ body {
     padding: 0;
     background-color: #efeee7;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    line-height: 1.5;
+    line-height: 150%;
+    color: #333
   }
+
+header {
+    background: #333;
+  }
+  
 
 h1 {
    background-color: #333333;
